@@ -1,0 +1,14 @@
+/Users/lohappa/RiderProjects/Mattespel/Mattespel/obj/Debug/net9.0/Mattespel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lohappa/RiderProjects/Mattespel/Mattespel/obj/Debug/net9.0/Mattespel.AssemblyInfoInputs.cache
+/Users/lohappa/RiderProjects/Mattespel/Mattespel/obj/Debug/net9.0/Mattespel.AssemblyInfo.cs
+/Users/lohappa/RiderProjects/Mattespel/Mattespel/obj/Debug/net9.0/Mattespel.csproj.CoreCompileInputs.cache
+/Users/lohappa/RiderProjects/Mattespel/Mattespel/bin/Debug/net9.0/Mattespel
+/Users/lohappa/RiderProjects/Mattespel/Mattespel/bin/Debug/net9.0/Mattespel.deps.json
+/Users/lohappa/RiderProjects/Mattespel/Mattespel/bin/Debug/net9.0/Mattespel.runtimeconfig.json
+/Users/lohappa/RiderProjects/Mattespel/Mattespel/bin/Debug/net9.0/Mattespel.dll
+/Users/lohappa/RiderProjects/Mattespel/Mattespel/bin/Debug/net9.0/Mattespel.pdb
+/Users/lohappa/RiderProjects/Mattespel/Mattespel/obj/Debug/net9.0/Mattespel.dll
+/Users/lohappa/RiderProjects/Mattespel/Mattespel/obj/Debug/net9.0/refint/Mattespel.dll
+/Users/lohappa/RiderProjects/Mattespel/Mattespel/obj/Debug/net9.0/Mattespel.pdb
+/Users/lohappa/RiderProjects/Mattespel/Mattespel/obj/Debug/net9.0/Mattespel.genruntimeconfig.cache
+/Users/lohappa/RiderProjects/Mattespel/Mattespel/obj/Debug/net9.0/ref/Mattespel.dll
