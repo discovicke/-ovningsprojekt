@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lohappa/RiderProjects/RuethsResa/Motor/Motor.csproj",
+      "projectUniqueName": "/Users/lohappa/Documents/GitHub/-ovningsprojekt/RuethsResa/Motor/Motor.csproj",
       "projectName": "Motor",
-      "projectPath": "/Users/lohappa/RiderProjects/RuethsResa/Motor/Motor.csproj",
+      "projectPath": "/Users/lohappa/Documents/GitHub/-ovningsprojekt/RuethsResa/Motor/Motor.csproj",
       "packagesPath": "/Users/lohappa/.nuget/packages/",
-      "outputPath": "/Users/lohappa/RiderProjects/RuethsResa/Motor/obj/",
+      "outputPath": "/Users/lohappa/Documents/GitHub/-ovningsprojekt/RuethsResa/Motor/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/lohappa/.nuget/NuGet/NuGet.Config"

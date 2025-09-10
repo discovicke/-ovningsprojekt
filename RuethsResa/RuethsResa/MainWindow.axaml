@@ -1,0 +1,28 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="clr-namespace:RuethsResa"
+        
+        mc:Ignorable="d" d:DesignWidth="735" d:DesignHeight="690"
+        x:Class="RuethsResa.MainWindow"
+        x:DataType="vm:MainViewModel"
+        
+        Title="RuethsResa">
+
+        <Canvas Width="400" Height="300" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <!-- Labels med HP, guld, XP och Level, positionerade åt vänster -->
+            <Label Content="Hit Points:" Canvas.Left="18" Canvas.Top="20"/>
+            <Label Content="Guld:" Canvas.Left="18" Canvas.Top="46"/>
+            <Label Content="XP:" Canvas.Left="18" Canvas.Top="74"/>
+            <Label Content="Level:" Canvas.Left="18" Canvas.Top="100"/>
+            
+            <!-- Labels med värden, Positionerade åt höger -->
+            <Label Content="{Binding lblHitPoints}" Canvas.Left="110" Canvas.Top="20"/>
+            <Label Content="{Binding lblGold}" Canvas.Left="110" Canvas.Top="46"/>
+            <Label Content="{Binding lblXP}" Canvas.Left="110" Canvas.Top="74"/>
+            <Label Content="{Binding lblLevel}" Canvas.Left="110" Canvas.Top="100"/>
+            
+
+        </Canvas>
+</Window>

@@ -1,0 +1,15 @@
+/Users/lohappa/Documents/GitHub/-ovningsprojekt/RuethsResa/Motor/bin/Debug/net9.0/Motor
+/Users/lohappa/Documents/GitHub/-ovningsprojekt/RuethsResa/Motor/bin/Debug/net9.0/Motor.deps.json
+/Users/lohappa/Documents/GitHub/-ovningsprojekt/RuethsResa/Motor/bin/Debug/net9.0/Motor.runtimeconfig.json
+/Users/lohappa/Documents/GitHub/-ovningsprojekt/RuethsResa/Motor/bin/Debug/net9.0/Motor.dll
+/Users/lohappa/Documents/GitHub/-ovningsprojekt/RuethsResa/Motor/bin/Debug/net9.0/Motor.pdb
+/Users/lohappa/Documents/GitHub/-ovningsprojekt/RuethsResa/Motor/obj/Debug/net9.0/Motor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lohappa/Documents/GitHub/-ovningsprojekt/RuethsResa/Motor/obj/Debug/net9.0/Motor.AssemblyInfoInputs.cache
+/Users/lohappa/Documents/GitHub/-ovningsprojekt/RuethsResa/Motor/obj/Debug/net9.0/Motor.AssemblyInfo.cs
+/Users/lohappa/Documents/GitHub/-ovningsprojekt/RuethsResa/Motor/obj/Debug/net9.0/Motor.csproj.CoreCompileInputs.cache
+/Users/lohappa/Documents/GitHub/-ovningsprojekt/RuethsResa/Motor/obj/Debug/net9.0/Motor.sourcelink.json
+/Users/lohappa/Documents/GitHub/-ovningsprojekt/RuethsResa/Motor/obj/Debug/net9.0/Motor.dll
+/Users/lohappa/Documents/GitHub/-ovningsprojekt/RuethsResa/Motor/obj/Debug/net9.0/refint/Motor.dll
+/Users/lohappa/Documents/GitHub/-ovningsprojekt/RuethsResa/Motor/obj/Debug/net9.0/Motor.pdb
+/Users/lohappa/Documents/GitHub/-ovningsprojekt/RuethsResa/Motor/obj/Debug/net9.0/Motor.genruntimeconfig.cache
+/Users/lohappa/Documents/GitHub/-ovningsprojekt/RuethsResa/Motor/obj/Debug/net9.0/ref/Motor.dll

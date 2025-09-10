@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuethsResa", "RuethsResa\RuethsResa.csproj", "{3684452D-D81B-45E4-B352-1A07131EF99F}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Motor", "Motor\Motor.csproj", "{AAE83A50-5339-438B-95AC-768CF522510F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuethsResa", "RuethsResa\RuethsResa.csproj", "{29CCB041-D825-43C9-9781-77FA9AF1BC8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,13 +10,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3684452D-D81B-45E4-B352-1A07131EF99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3684452D-D81B-45E4-B352-1A07131EF99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3684452D-D81B-45E4-B352-1A07131EF99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3684452D-D81B-45E4-B352-1A07131EF99F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AAE83A50-5339-438B-95AC-768CF522510F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AAE83A50-5339-438B-95AC-768CF522510F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AAE83A50-5339-438B-95AC-768CF522510F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AAE83A50-5339-438B-95AC-768CF522510F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29CCB041-D825-43C9-9781-77FA9AF1BC8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29CCB041-D825-43C9-9781-77FA9AF1BC8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29CCB041-D825-43C9-9781-77FA9AF1BC8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29CCB041-D825-43C9-9781-77FA9AF1BC8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
