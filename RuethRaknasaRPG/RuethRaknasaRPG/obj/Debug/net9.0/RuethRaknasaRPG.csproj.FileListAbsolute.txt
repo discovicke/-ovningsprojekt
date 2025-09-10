@@ -1,0 +1,14 @@
+C:\Users\disco\RiderProjects\RuethRaknasaRPG\RuethRaknasaRPG\obj\Debug\net9.0\RuethRaknasaRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disco\RiderProjects\RuethRaknasaRPG\RuethRaknasaRPG\obj\Debug\net9.0\RuethRaknasaRPG.AssemblyInfoInputs.cache
+C:\Users\disco\RiderProjects\RuethRaknasaRPG\RuethRaknasaRPG\obj\Debug\net9.0\RuethRaknasaRPG.AssemblyInfo.cs
+C:\Users\disco\RiderProjects\RuethRaknasaRPG\RuethRaknasaRPG\obj\Debug\net9.0\RuethRaknasaRPG.csproj.CoreCompileInputs.cache
+C:\Users\disco\RiderProjects\RuethRaknasaRPG\RuethRaknasaRPG\bin\Debug\net9.0\RuethRaknasaRPG.exe
+C:\Users\disco\RiderProjects\RuethRaknasaRPG\RuethRaknasaRPG\bin\Debug\net9.0\RuethRaknasaRPG.deps.json
+C:\Users\disco\RiderProjects\RuethRaknasaRPG\RuethRaknasaRPG\bin\Debug\net9.0\RuethRaknasaRPG.runtimeconfig.json
+C:\Users\disco\RiderProjects\RuethRaknasaRPG\RuethRaknasaRPG\bin\Debug\net9.0\RuethRaknasaRPG.dll
+C:\Users\disco\RiderProjects\RuethRaknasaRPG\RuethRaknasaRPG\bin\Debug\net9.0\RuethRaknasaRPG.pdb
+C:\Users\disco\RiderProjects\RuethRaknasaRPG\RuethRaknasaRPG\obj\Debug\net9.0\RuethRaknasaRPG.dll
+C:\Users\disco\RiderProjects\RuethRaknasaRPG\RuethRaknasaRPG\obj\Debug\net9.0\refint\RuethRaknasaRPG.dll
+C:\Users\disco\RiderProjects\RuethRaknasaRPG\RuethRaknasaRPG\obj\Debug\net9.0\RuethRaknasaRPG.pdb
+C:\Users\disco\RiderProjects\RuethRaknasaRPG\RuethRaknasaRPG\obj\Debug\net9.0\RuethRaknasaRPG.genruntimeconfig.cache
+C:\Users\disco\RiderProjects\RuethRaknasaRPG\RuethRaknasaRPG\obj\Debug\net9.0\ref\RuethRaknasaRPG.dll
