@@ -1,0 +1,14 @@
+/Users/lohappa/RiderProjects/MailCityBitch/MailCityBitch/bin/Debug/net9.0/MailCityBitch
+/Users/lohappa/RiderProjects/MailCityBitch/MailCityBitch/bin/Debug/net9.0/MailCityBitch.deps.json
+/Users/lohappa/RiderProjects/MailCityBitch/MailCityBitch/bin/Debug/net9.0/MailCityBitch.runtimeconfig.json
+/Users/lohappa/RiderProjects/MailCityBitch/MailCityBitch/bin/Debug/net9.0/MailCityBitch.dll
+/Users/lohappa/RiderProjects/MailCityBitch/MailCityBitch/bin/Debug/net9.0/MailCityBitch.pdb
+/Users/lohappa/RiderProjects/MailCityBitch/MailCityBitch/obj/Debug/net9.0/MailCityBitch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lohappa/RiderProjects/MailCityBitch/MailCityBitch/obj/Debug/net9.0/MailCityBitch.AssemblyInfoInputs.cache
+/Users/lohappa/RiderProjects/MailCityBitch/MailCityBitch/obj/Debug/net9.0/MailCityBitch.AssemblyInfo.cs
+/Users/lohappa/RiderProjects/MailCityBitch/MailCityBitch/obj/Debug/net9.0/MailCityBitch.csproj.CoreCompileInputs.cache
+/Users/lohappa/RiderProjects/MailCityBitch/MailCityBitch/obj/Debug/net9.0/MailCityBitch.dll
+/Users/lohappa/RiderProjects/MailCityBitch/MailCityBitch/obj/Debug/net9.0/refint/MailCityBitch.dll
+/Users/lohappa/RiderProjects/MailCityBitch/MailCityBitch/obj/Debug/net9.0/MailCityBitch.pdb
+/Users/lohappa/RiderProjects/MailCityBitch/MailCityBitch/obj/Debug/net9.0/MailCityBitch.genruntimeconfig.cache
+/Users/lohappa/RiderProjects/MailCityBitch/MailCityBitch/obj/Debug/net9.0/ref/MailCityBitch.dll
